@@ -91,10 +91,6 @@ li span {
     color: #1db4fd;
 }
 
-.supportLink {
-
-}
-
 section {
     max-width: 680px;
     margin: 1em auto 0 auto;
@@ -102,9 +98,9 @@ section {
 }
 
 footer {
-    color: black;
+    max-width: 680px;
+    margin: 1em auto 0 auto;
     padding: 1em;
+    color: black;
     font-size: 12px;
-    width: 100%;
-    margin-top: 4em;
 }
