@@ -68,7 +68,8 @@ li span {
 
 .grid-2 {
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-gap: 2%;
+    grid-template-columns: 49% 49%;
     margin-top: 0;
 }
 
