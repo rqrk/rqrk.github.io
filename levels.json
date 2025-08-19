@@ -1,0 +1,1251 @@
+[
+  {
+    "level": 1,
+    "reps": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "isChallenge": false,
+    "total": 5
+  },
+  {
+    "level": 2,
+    "reps": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "isChallenge": false,
+    "total": 6
+  },
+  {
+    "level": 3,
+    "reps": [
+      1,
+      2,
+      2,
+      2
+    ],
+    "isChallenge": false,
+    "total": 7
+  },
+  {
+    "level": 4,
+    "reps": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "isChallenge": false,
+    "total": 8
+  },
+  {
+    "level": 5,
+    "reps": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "isChallenge": false,
+    "total": 9
+  },
+  {
+    "level": 6,
+    "reps": [
+      10
+    ],
+    "isChallenge": true,
+    "total": 10
+  },
+  {
+    "level": 7,
+    "reps": [
+      2,
+      2,
+      3,
+      3
+    ],
+    "isChallenge": false,
+    "total": 10
+  },
+  {
+    "level": 8,
+    "reps": [
+      2,
+      3,
+      3,
+      3
+    ],
+    "isChallenge": false,
+    "total": 11
+  },
+  {
+    "level": 9,
+    "reps": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "isChallenge": false,
+    "total": 12
+  },
+  {
+    "level": 10,
+    "reps": [
+      3,
+      3,
+      4,
+      3
+    ],
+    "isChallenge": false,
+    "total": 13
+  },
+  {
+    "level": 11,
+    "reps": [
+      3,
+      3,
+      4,
+      4
+    ],
+    "isChallenge": false,
+    "total": 14
+  },
+  {
+    "level": 12,
+    "reps": [
+      15
+    ],
+    "isChallenge": true,
+    "total": 15
+  },
+  {
+    "level": 13,
+    "reps": [
+      3,
+      4,
+      4,
+      4
+    ],
+    "isChallenge": false,
+    "total": 15
+  },
+  {
+    "level": 14,
+    "reps": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "isChallenge": false,
+    "total": 16
+  },
+  {
+    "level": 15,
+    "reps": [
+      4,
+      4,
+      5,
+      4
+    ],
+    "isChallenge": false,
+    "total": 17
+  },
+  {
+    "level": 16,
+    "reps": [
+      4,
+      4,
+      5,
+      4
+    ],
+    "isChallenge": false,
+    "total": 17
+  },
+  {
+    "level": 17,
+    "reps": [
+      4,
+      4,
+      5,
+      5
+    ],
+    "isChallenge": false,
+    "total": 18
+  },
+  {
+    "level": 18,
+    "reps": [
+      20
+    ],
+    "isChallenge": true,
+    "total": 20
+  },
+  {
+    "level": 19,
+    "reps": [
+      4,
+      5,
+      5,
+      5
+    ],
+    "isChallenge": false,
+    "total": 19
+  },
+  {
+    "level": 20,
+    "reps": [
+      5,
+      5,
+      5,
+      5
+    ],
+    "isChallenge": false,
+    "total": 20
+  },
+  {
+    "level": 21,
+    "reps": [
+      5,
+      5,
+      6,
+      5
+    ],
+    "isChallenge": false,
+    "total": 21
+  },
+  {
+    "level": 22,
+    "reps": [
+      5,
+      5,
+      6,
+      6
+    ],
+    "isChallenge": false,
+    "total": 22
+  },
+  {
+    "level": 23,
+    "reps": [
+      5,
+      6,
+      6,
+      6
+    ],
+    "isChallenge": false,
+    "total": 23
+  },
+  {
+    "level": 24,
+    "reps": [
+      25
+    ],
+    "isChallenge": true,
+    "total": 25
+  },
+  {
+    "level": 25,
+    "reps": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "isChallenge": false,
+    "total": 24
+  },
+  {
+    "level": 26,
+    "reps": [
+      6,
+      6,
+      7,
+      6
+    ],
+    "isChallenge": false,
+    "total": 25
+  },
+  {
+    "level": 27,
+    "reps": [
+      6,
+      6,
+      7,
+      7
+    ],
+    "isChallenge": false,
+    "total": 26
+  },
+  {
+    "level": 28,
+    "reps": [
+      6,
+      7,
+      7,
+      7
+    ],
+    "isChallenge": false,
+    "total": 27
+  },
+  {
+    "level": 29,
+    "reps": [
+      7,
+      7,
+      7,
+      7
+    ],
+    "isChallenge": false,
+    "total": 28
+  },
+  {
+    "level": 30,
+    "reps": [
+      30
+    ],
+    "isChallenge": true,
+    "total": 30
+  },
+  {
+    "level": 31,
+    "reps": [
+      7,
+      7,
+      8,
+      7
+    ],
+    "isChallenge": false,
+    "total": 29
+  },
+  {
+    "level": 32,
+    "reps": [
+      7,
+      7,
+      8,
+      8
+    ],
+    "isChallenge": false,
+    "total": 30
+  },
+  {
+    "level": 33,
+    "reps": [
+      7,
+      8,
+      8,
+      8
+    ],
+    "isChallenge": false,
+    "total": 31
+  },
+  {
+    "level": 34,
+    "reps": [
+      8,
+      8,
+      8,
+      8
+    ],
+    "isChallenge": false,
+    "total": 32
+  },
+  {
+    "level": 35,
+    "reps": [
+      8,
+      8,
+      9,
+      8
+    ],
+    "isChallenge": false,
+    "total": 33
+  },
+  {
+    "level": 36,
+    "reps": [
+      35
+    ],
+    "isChallenge": true,
+    "total": 35
+  },
+  {
+    "level": 37,
+    "reps": [
+      8,
+      8,
+      9,
+      9
+    ],
+    "isChallenge": false,
+    "total": 34
+  },
+  {
+    "level": 38,
+    "reps": [
+      8,
+      9,
+      9,
+      9
+    ],
+    "isChallenge": false,
+    "total": 35
+  },
+  {
+    "level": 39,
+    "reps": [
+      9,
+      9,
+      9,
+      9
+    ],
+    "isChallenge": false,
+    "total": 36
+  },
+  {
+    "level": 40,
+    "reps": [
+      9,
+      9,
+      10,
+      9
+    ],
+    "isChallenge": false,
+    "total": 37
+  },
+  {
+    "level": 41,
+    "reps": [
+      9,
+      9,
+      10,
+      10
+    ],
+    "isChallenge": false,
+    "total": 38
+  },
+  {
+    "level": 42,
+    "reps": [
+      40
+    ],
+    "isChallenge": true,
+    "total": 40
+  },
+  {
+    "level": 43,
+    "reps": [
+      9,
+      10,
+      10,
+      10
+    ],
+    "isChallenge": false,
+    "total": 39
+  },
+  {
+    "level": 44,
+    "reps": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "isChallenge": false,
+    "total": 40
+  },
+  {
+    "level": 45,
+    "reps": [
+      10,
+      10,
+      11,
+      10
+    ],
+    "isChallenge": false,
+    "total": 41
+  },
+  {
+    "level": 46,
+    "reps": [
+      10,
+      10,
+      11,
+      10
+    ],
+    "isChallenge": false,
+    "total": 41
+  },
+  {
+    "level": 47,
+    "reps": [
+      10,
+      10,
+      11,
+      11
+    ],
+    "isChallenge": false,
+    "total": 42
+  },
+  {
+    "level": 48,
+    "reps": [
+      45
+    ],
+    "isChallenge": true,
+    "total": 45
+  },
+  {
+    "level": 49,
+    "reps": [
+      10,
+      11,
+      11,
+      11
+    ],
+    "isChallenge": false,
+    "total": 43
+  },
+  {
+    "level": 50,
+    "reps": [
+      11,
+      11,
+      11,
+      11
+    ],
+    "isChallenge": false,
+    "total": 44
+  },
+  {
+    "level": 51,
+    "reps": [
+      11,
+      11,
+      12,
+      11
+    ],
+    "isChallenge": false,
+    "total": 45
+  },
+  {
+    "level": 52,
+    "reps": [
+      11,
+      11,
+      12,
+      12
+    ],
+    "isChallenge": false,
+    "total": 46
+  },
+  {
+    "level": 53,
+    "reps": [
+      11,
+      12,
+      12,
+      12
+    ],
+    "isChallenge": false,
+    "total": 47
+  },
+  {
+    "level": 54,
+    "reps": [
+      50
+    ],
+    "isChallenge": true,
+    "total": 50
+  },
+  {
+    "level": 55,
+    "reps": [
+      12,
+      12,
+      12,
+      12
+    ],
+    "isChallenge": false,
+    "total": 48
+  },
+  {
+    "level": 56,
+    "reps": [
+      12,
+      12,
+      13,
+      12
+    ],
+    "isChallenge": false,
+    "total": 49
+  },
+  {
+    "level": 57,
+    "reps": [
+      12,
+      12,
+      13,
+      13
+    ],
+    "isChallenge": false,
+    "total": 50
+  },
+  {
+    "level": 58,
+    "reps": [
+      12,
+      13,
+      13,
+      13
+    ],
+    "isChallenge": false,
+    "total": 51
+  },
+  {
+    "level": 59,
+    "reps": [
+      13,
+      13,
+      13,
+      13
+    ],
+    "isChallenge": false,
+    "total": 52
+  },
+  {
+    "level": 60,
+    "reps": [
+      55
+    ],
+    "isChallenge": true,
+    "total": 55
+  },
+  {
+    "level": 61,
+    "reps": [
+      13,
+      13,
+      14,
+      13
+    ],
+    "isChallenge": false,
+    "total": 53
+  },
+  {
+    "level": 62,
+    "reps": [
+      13,
+      13,
+      14,
+      14
+    ],
+    "isChallenge": false,
+    "total": 54
+  },
+  {
+    "level": 63,
+    "reps": [
+      13,
+      14,
+      14,
+      14
+    ],
+    "isChallenge": false,
+    "total": 55
+  },
+  {
+    "level": 64,
+    "reps": [
+      14,
+      14,
+      14,
+      14
+    ],
+    "isChallenge": false,
+    "total": 56
+  },
+  {
+    "level": 65,
+    "reps": [
+      14,
+      14,
+      15,
+      14
+    ],
+    "isChallenge": false,
+    "total": 57
+  },
+  {
+    "level": 66,
+    "reps": [
+      60
+    ],
+    "isChallenge": true,
+    "total": 60
+  },
+  {
+    "level": 67,
+    "reps": [
+      14,
+      14,
+      15,
+      15
+    ],
+    "isChallenge": false,
+    "total": 58
+  },
+  {
+    "level": 68,
+    "reps": [
+      14,
+      15,
+      15,
+      15
+    ],
+    "isChallenge": false,
+    "total": 59
+  },
+  {
+    "level": 69,
+    "reps": [
+      15,
+      15,
+      15,
+      15
+    ],
+    "isChallenge": false,
+    "total": 60
+  },
+  {
+    "level": 70,
+    "reps": [
+      15,
+      15,
+      16,
+      15
+    ],
+    "isChallenge": false,
+    "total": 61
+  },
+  {
+    "level": 71,
+    "reps": [
+      15,
+      15,
+      16,
+      16
+    ],
+    "isChallenge": false,
+    "total": 62
+  },
+  {
+    "level": 72,
+    "reps": [
+      65
+    ],
+    "isChallenge": true,
+    "total": 65
+  },
+  {
+    "level": 73,
+    "reps": [
+      15,
+      16,
+      16,
+      16
+    ],
+    "isChallenge": false,
+    "total": 63
+  },
+  {
+    "level": 74,
+    "reps": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "isChallenge": false,
+    "total": 64
+  },
+  {
+    "level": 75,
+    "reps": [
+      16,
+      16,
+      16,
+      16
+    ],
+    "isChallenge": false,
+    "total": 64
+  },
+  {
+    "level": 76,
+    "reps": [
+      16,
+      16,
+      17,
+      16
+    ],
+    "isChallenge": false,
+    "total": 65
+  },
+  {
+    "level": 77,
+    "reps": [
+      16,
+      16,
+      17,
+      17
+    ],
+    "isChallenge": false,
+    "total": 66
+  },
+  {
+    "level": 78,
+    "reps": [
+      70
+    ],
+    "isChallenge": true,
+    "total": 70
+  },
+  {
+    "level": 79,
+    "reps": [
+      16,
+      17,
+      17,
+      17
+    ],
+    "isChallenge": false,
+    "total": 67
+  },
+  {
+    "level": 80,
+    "reps": [
+      17,
+      17,
+      17,
+      17
+    ],
+    "isChallenge": false,
+    "total": 68
+  },
+  {
+    "level": 81,
+    "reps": [
+      17,
+      17,
+      18,
+      17
+    ],
+    "isChallenge": false,
+    "total": 69
+  },
+  {
+    "level": 82,
+    "reps": [
+      17,
+      17,
+      18,
+      18
+    ],
+    "isChallenge": false,
+    "total": 70
+  },
+  {
+    "level": 83,
+    "reps": [
+      17,
+      18,
+      18,
+      18
+    ],
+    "isChallenge": false,
+    "total": 71
+  },
+  {
+    "level": 84,
+    "reps": [
+      75
+    ],
+    "isChallenge": true,
+    "total": 75
+  },
+  {
+    "level": 85,
+    "reps": [
+      18,
+      18,
+      18,
+      18
+    ],
+    "isChallenge": false,
+    "total": 72
+  },
+  {
+    "level": 86,
+    "reps": [
+      18,
+      18,
+      19,
+      18
+    ],
+    "isChallenge": false,
+    "total": 73
+  },
+  {
+    "level": 87,
+    "reps": [
+      18,
+      18,
+      19,
+      19
+    ],
+    "isChallenge": false,
+    "total": 74
+  },
+  {
+    "level": 88,
+    "reps": [
+      18,
+      19,
+      19,
+      19
+    ],
+    "isChallenge": false,
+    "total": 75
+  },
+  {
+    "level": 89,
+    "reps": [
+      19,
+      19,
+      19,
+      19
+    ],
+    "isChallenge": false,
+    "total": 76
+  },
+  {
+    "level": 90,
+    "reps": [
+      80
+    ],
+    "isChallenge": true,
+    "total": 80
+  },
+  {
+    "level": 91,
+    "reps": [
+      19,
+      19,
+      20,
+      19
+    ],
+    "isChallenge": false,
+    "total": 77
+  },
+  {
+    "level": 92,
+    "reps": [
+      19,
+      19,
+      20,
+      20
+    ],
+    "isChallenge": false,
+    "total": 78
+  },
+  {
+    "level": 93,
+    "reps": [
+      19,
+      20,
+      20,
+      20
+    ],
+    "isChallenge": false,
+    "total": 79
+  },
+  {
+    "level": 94,
+    "reps": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "isChallenge": false,
+    "total": 80
+  },
+  {
+    "level": 95,
+    "reps": [
+      20,
+      20,
+      21,
+      20
+    ],
+    "isChallenge": false,
+    "total": 81
+  },
+  {
+    "level": 96,
+    "reps": [
+      85
+    ],
+    "isChallenge": true,
+    "total": 85
+  },
+  {
+    "level": 97,
+    "reps": [
+      20,
+      20,
+      21,
+      21
+    ],
+    "isChallenge": false,
+    "total": 82
+  },
+  {
+    "level": 98,
+    "reps": [
+      20,
+      21,
+      21,
+      21
+    ],
+    "isChallenge": false,
+    "total": 83
+  },
+  {
+    "level": 99,
+    "reps": [
+      21,
+      21,
+      21,
+      21
+    ],
+    "isChallenge": false,
+    "total": 84
+  },
+  {
+    "level": 100,
+    "reps": [
+      21,
+      21,
+      22,
+      21
+    ],
+    "isChallenge": false,
+    "total": 85
+  },
+  {
+    "level": 101,
+    "reps": [
+      21,
+      21,
+      22,
+      22
+    ],
+    "isChallenge": false,
+    "total": 86
+  },
+  {
+    "level": 102,
+    "reps": [
+      90
+    ],
+    "isChallenge": true,
+    "total": 90
+  },
+  {
+    "level": 103,
+    "reps": [
+      21,
+      22,
+      22,
+      22
+    ],
+    "isChallenge": false,
+    "total": 87
+  },
+  {
+    "level": 104,
+    "reps": [
+      22,
+      22,
+      22,
+      22
+    ],
+    "isChallenge": false,
+    "total": 88
+  },
+  {
+    "level": 105,
+    "reps": [
+      22,
+      22,
+      22,
+      22
+    ],
+    "isChallenge": false,
+    "total": 88
+  },
+  {
+    "level": 106,
+    "reps": [
+      22,
+      22,
+      23,
+      22
+    ],
+    "isChallenge": false,
+    "total": 89
+  },
+  {
+    "level": 107,
+    "reps": [
+      22,
+      22,
+      23,
+      23
+    ],
+    "isChallenge": false,
+    "total": 90
+  },
+  {
+    "level": 108,
+    "reps": [
+      95
+    ],
+    "isChallenge": true,
+    "total": 95
+  },
+  {
+    "level": 109,
+    "reps": [
+      22,
+      23,
+      23,
+      23
+    ],
+    "isChallenge": false,
+    "total": 91
+  },
+  {
+    "level": 110,
+    "reps": [
+      23,
+      23,
+      23,
+      23
+    ],
+    "isChallenge": false,
+    "total": 92
+  },
+  {
+    "level": 111,
+    "reps": [
+      23,
+      23,
+      24,
+      23
+    ],
+    "isChallenge": false,
+    "total": 93
+  },
+  {
+    "level": 112,
+    "reps": [
+      23,
+      23,
+      24,
+      24
+    ],
+    "isChallenge": false,
+    "total": 94
+  },
+  {
+    "level": 113,
+    "reps": [
+      23,
+      24,
+      24,
+      24
+    ],
+    "isChallenge": false,
+    "total": 95
+  },
+  {
+    "level": 114,
+    "reps": [
+      100
+    ],
+    "isChallenge": true,
+    "total": 100
+  },
+  {
+    "level": 115,
+    "reps": [
+      24,
+      24,
+      24,
+      24
+    ],
+    "isChallenge": false,
+    "total": 96
+  },
+  {
+    "level": 116,
+    "reps": [
+      24,
+      24,
+      25,
+      24
+    ],
+    "isChallenge": false,
+    "total": 97
+  },
+  {
+    "level": 117,
+    "reps": [
+      24,
+      24,
+      25,
+      25
+    ],
+    "isChallenge": false,
+    "total": 98
+  },
+  {
+    "level": 118,
+    "reps": [
+      24,
+      25,
+      25,
+      25
+    ],
+    "isChallenge": false,
+    "total": 99
+  },
+  {
+    "level": 119,
+    "reps": [
+      100
+    ],
+    "isChallenge": false,
+    "total": 100
+  }
+]
